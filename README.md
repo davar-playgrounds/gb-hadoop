@@ -1,4 +1,5 @@
 # Hadoop Docker images
+_All Docker images are based on Debian 8 Docker image_
 
 [![DockerPulls](https://img.shields.io/docker/pulls/giabar/gb-hadoop.svg)](https://registry.hub.docker.com/u/giabar/gb-hadoop/)
 [![DockerStars](https://img.shields.io/docker/stars/giabar/gb-hadoop.svg)](https://registry.hub.docker.com/u/giabar/gb-hadoop/)
@@ -8,8 +9,6 @@
 Try online your Hadoop dockerized cluster! Click the below button:
 
 [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/giabar/gb-hadoop/master/docker-compose.yml)
-
-_All Docker images are based on Debian 8 Docker image_
 
 ## Requirements
 
